@@ -1,6 +1,9 @@
 # Add  code here!
 def prime?(i)
   num=2
+  if i<=0 
+    return false
+  end
   while num<i
     if i===2 
     return true

@@ -6,10 +6,11 @@ def prime?(array)
   while num<i
     if i===2 
     return true
-  
+  end
     if i%num==0
     return false
-    
+   end 
     num+=1
   end
+end
 end

@@ -5,7 +5,7 @@ def prime?(i)
     if i===2 
     return true
   end
-    if i%num==0||(i<=0)
+    if i%num==0||(i<0)
     return false
    end 
     num+=1

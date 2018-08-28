@@ -13,4 +13,3 @@ def prime?(array)
     num+=1
   end
 end
-end

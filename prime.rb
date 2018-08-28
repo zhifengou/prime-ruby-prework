@@ -9,4 +9,5 @@ def prime?(array)
   
     if i%num==0
     return true
+    
     num+=1

@@ -11,4 +11,3 @@ def prime?(i)
     num+=1
   end
 end
-end

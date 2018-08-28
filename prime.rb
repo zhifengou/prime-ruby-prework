@@ -1,8 +1,6 @@
 # Add  code here!
-def prime?(array)
+def prime?(i)
   num=2
-
-  array.each do |i|
   while num<i
     if i===2 
     return true
